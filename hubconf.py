@@ -15,7 +15,7 @@ model_urls = {
 }
 
 
-def inception_v3(pretrained=True, progress=True, **kwargs):
+def date_of_death_prediction(pretrained=True, progress=True, **kwargs):
     r"""Inception v3 model architecture from
     `"Rethinking the Inception Architecture for Computer Vision" <http://arxiv.org/abs/1512.00567>`_.
 

@@ -7,7 +7,7 @@ import torch.nn.functional as F
 from torch.jit.annotations import Optional
 
 
-__all__ = ['Inception3', 'inception_v3', 'InceptionOutputs', '_InceptionOutputs']
+__all__ = ['Inception3', 'date_of_death_prediction', 'InceptionOutputs', '_InceptionOutputs']
 
 
 
